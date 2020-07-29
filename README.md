@@ -8,9 +8,9 @@ I live in Dunkirk, Maryland and go to school in Raleigh, North Carolina.
 
 Three of my favorite movies are:
 
--*The Joker*
--*Coach Carter*
--*The Dark Knight*
+- *The Joker*
+- *Coach Carter*
+- *The Dark Knight*
 
 ### Food
 
